@@ -62,7 +62,7 @@ When you've gathered enough memory orbs, you'll have found your way home... good
 - Cat uses animations while walking using arrays
 - Birds placed at random have flapping/moving animations using arrays
 
-**PROJECT CONCLUSION**
+**PROJECT CONCLUSION:**
 I believe I applied a vast amount of the things that we learnt in class to my project and even went out to learn other things, through the videos given to us but had not covered together as a 
 class, and applied it into my own project in a way that was creative and communicative, this includes the jumping, and fading. I was able to identify and solve any possible inconveniences in my 
 project and considered how the user would play it and adjusted and improved it to work for the user both communicatively and engagingly. Perhaps I could have found more ways to improve my code to 
