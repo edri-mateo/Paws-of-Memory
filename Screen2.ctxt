@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Screen2
+comment0.text=\n\ Write\ a\ description\ of\ class\ Screen2\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Screen2()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\n\ Screen2.\n\ Scales\ image,\ sets\ trasnparency,\ and\ sets\ image\ to\ a\ black\ screen.\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Screen2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ introScreen()
+comment3.text=\n\ Method\ introScreen\n\ Sets\ image\ to\ a\ clear\ screen\ at\ 850\ iterations.\n
+numComments=4

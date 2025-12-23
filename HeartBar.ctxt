@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HeartBar
+comment0.text=\n\ Write\ a\ description\ of\ class\ HeartBar\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=lives
+comment1.target=HeartBar(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\n\ HeartBar.\n\ Contains\ different\ images\ for\ HeartBar.\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ HeartBar\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3
