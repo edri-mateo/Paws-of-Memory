@@ -20,7 +20,7 @@ I do not own any of the images, sprites, music, or sound effects used in this ga
 All artwork, audio, and other media assets belong to their respective creators and rights holders.
 They are used here for educational and non-commercial purposes only.
 
-### Project Details
+## Project Details
 **PROJECT TITLE:** Paws of Memory
 **PURPOSE OF PROJECT:** A story game of a cat who got lost during a storm and must remember their way home by collecting memory orbs and avoiding dangers.
 **VERSION or DATE:** June 13, 2022
