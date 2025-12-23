@@ -1,10 +1,10 @@
 # Paws of Memory
 "Play as a lost cat risking its remaining lives to find its way home. Collect glowing memory orbs to piece together fragments of the past and navigate the strange new world Earth has become."
-\n
+
 
 **PLAY AT:** (https://www.greenfoot.org/scenarios/35946)
 
-\n
+
 ## Controls:
 - Press "space-bar" to jump
 
@@ -22,9 +22,14 @@ They are used here for educational and non-commercial purposes only.
 
 ## Project Details
 **PROJECT TITLE:** Paws of Memory
-**PURPOSE OF PROJECT:** A story game of a cat who got lost during a storm and must remember their way home by collecting memory orbs and avoiding dangers.
+
+**PURPOSE OF PROJECT:** A story game of a cat who got lost during a storm and
+must remember their way home by collecting memory orbs and avoiding dangers.
+
 **VERSION or DATE:** June 13, 2022
+
 **HOW TO START THIS PROJECT:** Click "run".
+
 **AUTHORS:** Edrielle Mateo
 
 **USER INSTRUCTIONS:**
